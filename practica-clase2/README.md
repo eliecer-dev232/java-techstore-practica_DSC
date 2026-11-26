@@ -1,7 +1,7 @@
 # Práctica TechStore (clase 2)
 
-Aquí van **tus** soluciones de la práctica de clase. El enunciado está en `ejercicios-de-practica.md` (raíz).  
-`clase1/` y `clase2/` son material de clase: no mezcles tus ejercicios ahí.
+Aquí van **tus** soluciones de la práctica de clase. El enunciado está en `clase2/ejercicios-de-practica.md`.  
+`clase1/`, `clase2/` y `clase3/` son material de clase: no mezcles tus ejercicios ahí.
 
 ## Estructura
 
@@ -18,7 +18,7 @@ practica-clase2/
 
 | Qué | Dónde |
 | --- | --- |
-| Enunciados | `ejercicios-de-practica.md` |
+| Enunciados | `clase2/ejercicios-de-practica.md` |
 | Tu código | `practica-clase2/ejercicio-XX/*.java` |
 | Progreso / dudas | `memory-bank/progress.md` |
 | Apuntes de clase | `clase1/`, `clase2/` |
